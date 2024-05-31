@@ -224,7 +224,7 @@
             "search_time_series_aggregate": "`get_full_itsi_summary_service_health_events(da-itsi-cp-atlas-cisco-wsaweb-security-management)` | timechart avg(health_score) AS aggregate",
             "search_time_series_entities": "",
             "search_type": "adhoc",
-            "service_title": "Web Security Management",
+            "service_title": "Cisco WSA",
             "threshold_direction": "both",
             "threshold_eval": "",
             "threshold_field": "aggregate",
@@ -316,6 +316,6 @@
         }
     ],
     "team_id": "default_itsi_security_group",
-    "title": "Web Security Management",
+    "title": "Cisco WSA",
     "version": "0.0.1"
 }
