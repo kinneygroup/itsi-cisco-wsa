@@ -2,13 +2,7 @@
     "service_templates": [],
     "services": [
         "da-itsi-cp-atlas-cisco-wsaweb-security-management.json",
-        "da-itsi-cp-atlas-cisco-wsapolicy-management.json",
         "da-itsi-cp-atlas-cisco-wsanetwork-configuration.json",
-        "da-itsi-cp-atlas-cisco-wsaaccess-policy.json",
-        "da-itsi-cp-atlas-cisco-wsadecryption-policy.json",
-        "da-itsi-cp-atlas-cisco-wsarouting-policy.json",
-        "da-itsi-cp-atlas-cisco-wsaoutbound-malware-policy.json",
-        "da-itsi-cp-atlas-cisco-wsadata-security-policy.json",
         "da-itsi-cp-atlas-cisco-wsadns-configuration.json",
         "da-itsi-cp-atlas-cisco-wsasnmp-monitoring.json",
         "da-itsi-cp-atlas-cisco-wsaperformance-monitoring.json"

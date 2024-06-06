@@ -307,12 +307,6 @@
                 "SHKPI-da-itsi-cp-atlas-cisco-wsadns-configuration"
             ],
             "service_id": "da-itsi-cp-atlas-cisco-wsadns-configuration"
-        },
-        {
-            "kpis_depending_on": [
-                "SHKPI-8dabc782-d40f-4308-85f8-3cd81321f3f7"
-            ],
-            "service_id": "8dabc782-d40f-4308-85f8-3cd81321f3f7"
         }
     ],
     "team_id": "default_itsi_security_group",
